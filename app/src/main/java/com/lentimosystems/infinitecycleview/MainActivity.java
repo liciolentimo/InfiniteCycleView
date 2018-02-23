@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         pager.setAdapter(adapter);
     }
 
+
     private void initData() {
         lstImages.add(R.drawable.restaurant);
         lstImages.add(R.drawable.shop1);
